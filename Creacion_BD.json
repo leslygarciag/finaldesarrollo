@@ -1,0 +1,7 @@
+{
+    "ConnectionStrings": {
+        "DefaultConnection": "Host=localhost;Database=ClienteDB;Username=postgres;Password=yourpassword"
+    }
+}
+
+
